@@ -1,0 +1,548 @@
+customer_id,order_cost,day_type,rating,rating_given,prep_time,delivery_time
+66393,12.23,Weekday,5,True,23,28
+76942,11.59,Weekday,4,True,25,24
+147468,25.22,Weekday,3,True,20,24
+89574,5.97,Weekday,3,True,33,30
+121706,16.44,Weekday,5,True,21,26
+39705,7.18,Weekday,5,True,29,26
+143926,5.92,Weekday,Not given,False,34,28
+62667,12.13,Weekday,Not given,False,23,30
+150599,29.1,Weekday,5,True,21,30
+363783,15.86,Weekday,Not given,False,32,29
+41877,29.1,Weekday,5,True,20,29
+371590,21.88,Weekday,5,True,24,27
+149984,12.18,Weekday,Not given,False,20,29
+317794,8.39,Weekday,Not given,False,35,24
+148649,16.01,Weekday,4,True,23,31
+118709,24.3,Weekday,4,True,31,29
+208020,29.83,Weekday,5,True,20,32
+52037,19.89,Weekday,Not given,False,27,24
+313340,14.6,Weekday,3,True,24,24
+177250,12.23,Weekday,5,True,25,33
+371677,6.79,Weekday,Not given,False,33,28
+62980,8.34,Weekday,Not given,False,22,26
+82041,33.03,Weekday,Not given,False,22,32
+361616,24.2,Weekday,3,True,22,32
+277898,5.67,Weekday,4,True,23,31
+107909,6.69,Weekday,4,True,21,32
+133617,4.75,Weekday,4,True,35,28
+78939,16.3,Weekday,3,True,20,24
+309513,13.05,Weekday,5,True,33,27
+129798,25.27,Weekday,4,True,24,24
+329710,5.72,Weekday,3,True,31,24
+306119,9.22,Weekday,Not given,False,31,32
+121476,12.18,Weekday,3,True,29,27
+305522,24.2,Weekday,4,True,29,29
+60703,6.79,Weekday,Not given,False,33,25
+128600,31.29,Weekday,Not given,False,22,33
+365244,16.3,Weekday,Not given,False,20,28
+63020,12.9,Weekday,3,True,31,28
+222879,29.15,Weekday,5,True,23,27
+275535,13.05,Weekday,4,True,31,24
+137565,31.29,Weekday,Not given,False,26,32
+65009,7.86,Weekday,4,True,22,33
+91907,16.98,Weekday,5,True,31,32
+146588,12.18,Weekday,5,True,25,24
+104336,5.77,Weekday,4,True,29,24
+232582,32.93,Weekday,3,True,26,28
+370372,11.59,Weekday,Not given,False,25,24
+104555,29.34,Weekday,Not given,False,32,25
+250494,11.16,Weekday,5,True,22,28
+139085,24.25,Weekday,Not given,False,32,24
+71791,8.83,Weekday,Not given,False,31,33
+298824,16.25,Weekday,3,True,30,24
+62359,8.0,Weekday,4,True,27,29
+60052,16.01,Weekday,4,True,23,27
+198936,10.24,Weekday,Not given,False,22,25
+348787,19.4,Weekday,4,True,32,28
+93133,22.8,Weekday,5,True,33,33
+350085,17.03,Weekday,Not given,False,22,29
+84700,14.6,Weekday,3,True,32,24
+53212,12.27,Weekday,Not given,False,26,29
+17495,12.18,Weekday,Not given,False,26,24
+131645,13.0,Weekday,5,True,24,32
+129518,15.33,Weekday,4,True,24,29
+361509,19.35,Weekday,Not given,False,35,33
+134294,15.28,Weekday,4,True,30,29
+365225,12.23,Weekday,3,True,24,24
+279895,9.6,Weekday,4,True,35,28
+58871,8.05,Weekday,4,True,25,27
+231042,8.54,Weekday,4,True,28,29
+336162,29.15,Weekday,5,True,28,25
+59749,16.49,Weekday,Not given,False,31,27
+128963,5.67,Weekday,4,True,21,31
+231061,33.03,Weekday,Not given,False,33,31
+95164,8.88,Weekday,4,True,27,24
+263426,12.13,Weekday,5,True,30,29
+334619,14.07,Weekday,4,True,24,26
+195723,13.97,Weekday,3,True,34,28
+367591,16.05,Weekday,5,True,35,32
+399121,11.3,Weekday,Not given,False,24,24
+295111,13.0,Weekday,5,True,23,26
+251607,14.12,Weekday,Not given,False,31,28
+320493,29.2,Weekday,Not given,False,27,30
+104548,29.1,Weekday,Not given,False,28,33
+105754,14.02,Weekday,4,True,24,30
+96877,22.26,Weekday,4,True,30,26
+261400,19.45,Weekday,5,True,31,32
+177078,21.93,Weekday,Not given,False,22,25
+52832,9.46,Weekday,4,True,25,25
+373633,12.61,Weekday,5,True,23,28
+95644,12.61,Weekday,Not given,False,26,27
+46859,8.54,Weekday,5,True,24,29
+117810,19.35,Weekday,Not given,False,29,24
+97991,19.45,Weekday,5,True,34,27
+83504,29.15,Weekday,4,True,31,28
+75115,14.07,Weekday,Not given,False,20,32
+115238,19.4,Weekday,5,True,26,27
+334373,14.12,Weekday,5,True,23,32
+91397,14.16,Weekday,Not given,False,22,24
+91879,12.27,Weekday,5,True,20,30
+64658,16.2,Weekday,5,True,27,27
+360844,8.59,Weekday,5,True,32,31
+353606,15.62,Weekday,5,True,27,32
+109221,13.0,Weekday,5,True,21,24
+152786,25.22,Weekday,Not given,False,32,28
+104336,19.45,Weekday,4,True,28,24
+363561,8.49,Weekday,Not given,False,33,32
+301618,25.22,Weekday,Not given,False,32,24
+237616,12.13,Weekday,3,True,22,27
+103526,9.02,Weekday,5,True,24,29
+403833,6.69,Weekday,Not given,False,25,32
+165130,12.13,Weekday,4,True,22,32
+75722,24.25,Weekday,Not given,False,22,24
+212326,20.18,Weekday,Not given,False,30,26
+374286,5.92,Weekday,Not given,False,30,32
+351749,12.13,Weekday,5,True,30,26
+196355,12.18,Weekday,5,True,23,31
+211697,9.07,Weekday,4,True,21,32
+93797,6.02,Weekday,Not given,False,27,29
+87188,32.93,Weekday,3,True,28,27
+403019,15.47,Weekday,5,True,31,32
+148320,16.49,Weekday,Not given,False,31,28
+164016,24.3,Weekday,5,True,20,27
+94152,17.08,Weekday,5,True,22,26
+384571,22.31,Weekday,5,True,28,27
+347263,12.08,Weekday,5,True,26,26
+241719,13.1,Weekday,5,True,24,28
+93133,29.29,Weekday,4,True,30,24
+64830,20.47,Weekday,3,True,32,24
+65779,24.35,Weekday,Not given,False,33,29
+304291,5.92,Weekday,3,True,33,30
+143796,5.92,Weekday,4,True,34,30
+35774,12.23,Weekday,Not given,False,28,33
+203370,24.3,Weekday,Not given,False,21,33
+110138,9.12,Weekday,5,True,28,28
+91958,12.18,Weekday,Not given,False,26,33
+145389,20.23,Weekday,Not given,False,31,29
+96877,9.12,Weekday,Not given,False,29,33
+100527,5.92,Weekday,3,True,34,25
+41409,15.76,Weekday,Not given,False,33,31
+232035,9.22,Weekday,5,True,25,24
+84087,8.78,Weekday,5,True,34,33
+110091,9.41,Weekday,5,True,30,32
+66505,12.18,Weekday,5,True,25,30
+113972,12.08,Weekday,Not given,False,21,26
+105614,8.54,Weekday,3,True,27,25
+42018,12.18,Weekday,Not given,False,34,32
+92806,14.94,Weekday,Not given,False,33,31
+349123,12.95,Weekday,5,True,20,30
+60873,25.17,Weekday,4,True,31,25
+117810,6.84,Weekday,Not given,False,21,24
+362842,9.75,Weekday,5,True,34,30
+141576,19.35,Weekday,5,True,23,28
+52832,15.86,Weekday,5,True,28,28
+182080,14.65,Weekday,Not given,False,26,33
+356195,29.15,Weekday,5,True,20,29
+70456,12.56,Weekday,Not given,False,32,28
+325285,14.02,Weekday,Not given,False,25,26
+276431,14.02,Weekday,5,True,20,27
+62359,35.41,Weekday,4,True,21,29
+60138,15.86,Weekday,5,True,29,26
+386766,17.03,Weekday,3,True,21,27
+167986,8.25,Weekday,3,True,34,33
+72639,10.72,Weekday,Not given,False,30,26
+151191,20.18,Weekday,Not given,False,23,25
+367093,15.86,Weekday,Not given,False,30,24
+111356,13.87,Weekday,Not given,False,31,30
+70564,14.12,Weekday,3,True,26,27
+142356,14.07,Weekday,Not given,False,35,29
+115213,9.22,Weekday,Not given,False,30,32
+270525,8.39,Weekday,Not given,False,20,31
+54081,9.22,Weekday,4,True,29,33
+304509,22.8,Weekday,Not given,False,33,33
+73175,31.43,Weekday,5,True,25,28
+114400,29.39,Weekday,Not given,False,23,33
+59673,15.71,Weekday,5,True,27,26
+66636,29.1,Weekday,5,True,29,31
+348352,6.69,Weekday,Not given,False,20,28
+42018,5.82,Weekday,Not given,False,27,28
+399520,14.07,Weekday,Not given,False,28,28
+64151,22.8,Weekday,5,True,32,27
+74762,12.23,Weekday,Not given,False,26,25
+59673,12.08,Weekday,Not given,False,27,27
+200631,7.38,Weekday,4,True,24,29
+47879,13.19,Weekday,5,True,22,28
+404649,19.45,Weekday,Not given,False,28,28
+70001,12.08,Weekday,Not given,False,23,32
+64153,14.07,Weekday,4,True,34,24
+385426,17.03,Weekday,5,True,35,32
+289597,9.51,Weekday,Not given,False,24,27
+100999,12.23,Weekday,Not given,False,26,26
+54110,19.35,Weekday,4,True,23,26
+182252,6.26,Weekday,5,True,31,26
+389155,32.98,Weekday,3,True,23,25
+304112,16.25,Weekday,5,True,27,31
+197832,12.08,Weekday,Not given,False,25,28
+284835,22.36,Weekday,3,True,20,32
+143511,16.44,Weekday,Not given,False,33,30
+61181,8.63,Weekday,4,True,28,27
+124596,29.1,Weekday,Not given,False,27,26
+296554,9.75,Weekday,5,True,23,32
+314480,15.76,Weekday,5,True,30,24
+52574,24.25,Weekday,5,True,30,26
+85422,24.25,Weekday,5,True,29,26
+53543,12.18,Weekday,5,True,29,27
+198802,6.69,Weekday,5,True,26,31
+245264,9.12,Weekday,5,True,29,26
+42408,14.65,Weekday,5,True,32,25
+133222,21.34,Weekday,5,True,25,28
+142356,12.13,Weekday,Not given,False,26,27
+98735,9.65,Weekday,5,True,34,28
+70001,12.18,Weekday,Not given,False,26,26
+264399,29.15,Weekday,Not given,False,20,24
+124393,31.43,Weekday,5,True,20,27
+97991,15.28,Weekday,Not given,False,24,29
+150865,29.1,Weekday,Not given,False,22,25
+342777,12.9,Weekday,3,True,25,31
+196320,25.17,Weekday,4,True,33,32
+47440,25.22,Weekday,3,True,31,27
+120490,8.2,Weekday,Not given,False,34,24
+56722,22.31,Weekday,Not given,False,33,32
+47386,12.18,Weekday,4,True,28,31
+105087,14.12,Weekday,4,True,26,32
+83469,12.18,Weekday,3,True,33,29
+38050,12.71,Weekday,Not given,False,24,28
+140279,12.95,Weekday,Not given,False,28,28
+268365,12.18,Weekday,4,True,29,25
+47440,12.18,Weekday,3,True,25,24
+263426,22.12,Weekday,5,True,32,30
+148327,33.03,Weekday,Not given,False,31,28
+65589,19.45,Weekday,5,True,33,32
+240093,14.7,Weekday,5,True,30,24
+102801,13.73,Weekday,5,True,22,33
+373152,12.32,Weekday,Not given,False,29,27
+235818,15.96,Weekday,4,True,28,27
+338923,22.31,Weekday,3,True,21,25
+79343,6.02,Weekday,Not given,False,29,25
+389740,11.98,Weekday,5,True,21,28
+369272,11.69,Weekday,5,True,21,28
+350180,20.32,Weekday,5,True,30,29
+63513,5.92,Weekday,Not given,False,31,33
+250494,28.57,Weekday,5,True,22,32
+127149,25.27,Weekday,5,True,34,29
+52832,25.17,Weekday,Not given,False,23,24
+348096,31.43,Weekday,5,True,28,25
+302132,12.66,Weekday,5,True,24,30
+37982,15.52,Weekday,5,True,33,26
+115231,12.23,Weekday,5,True,23,24
+390436,13.0,Weekday,5,True,22,31
+102580,29.05,Weekday,4,True,28,25
+115519,20.23,Weekday,4,True,20,26
+318545,14.84,Weekday,3,True,35,31
+80737,24.2,Weekday,Not given,False,22,33
+87752,24.25,Weekday,5,True,20,27
+225912,16.3,Weekday,4,True,27,26
+397588,25.27,Weekday,Not given,False,29,33
+111356,32.98,Weekday,Not given,False,32,30
+385406,11.59,Weekday,Not given,False,21,30
+399332,24.2,Weekday,5,True,28,30
+54809,24.3,Weekday,5,True,24,31
+285774,6.79,Weekday,5,True,21,29
+129798,29.49,Weekday,Not given,False,22,32
+123977,22.26,Weekday,Not given,False,22,32
+94691,5.72,Weekday,3,True,24,26
+6987,29.78,Weekday,Not given,False,35,33
+106478,24.25,Weekday,4,True,22,29
+98319,13.0,Weekday,5,True,30,27
+132906,13.05,Weekday,Not given,False,28,30
+390484,12.56,Weekday,4,True,35,33
+361220,19.98,Weekday,5,True,34,30
+42828,14.12,Weekday,5,True,25,25
+369809,19.45,Weekday,3,True,28,28
+328731,13.97,Weekday,Not given,False,27,24
+360844,5.72,Weekday,5,True,32,26
+205241,6.07,Weekday,4,True,23,27
+157578,14.07,Weekday,5,True,33,26
+127934,12.52,Weekday,4,True,24,31
+144352,21.93,Weekday,Not given,False,21,33
+184325,22.75,Weekday,5,True,25,32
+115841,15.38,Weekday,Not given,False,30,31
+60039,31.33,Weekday,4,True,29,27
+56219,14.55,Weekday,5,True,30,32
+72339,17.03,Weekday,4,True,35,33
+112272,14.02,Weekday,Not given,False,35,29
+46696,12.08,Weekday,5,True,29,24
+64153,24.25,Weekday,5,True,33,30
+275689,16.98,Weekday,4,True,23,30
+113507,29.39,Weekday,Not given,False,26,30
+260680,12.95,Weekday,3,True,27,24
+81658,29.25,Weekday,5,True,35,29
+52832,8.01,Weekday,5,True,30,30
+129798,8.05,Weekday,Not given,False,26,31
+97255,19.4,Weekday,Not given,False,24,28
+127130,16.05,Weekday,4,True,34,33
+146588,9.07,Weekday,3,True,35,26
+283831,13.05,Weekday,5,True,22,28
+342107,12.13,Weekday,5,True,25,30
+349854,24.35,Weekday,5,True,34,26
+197633,5.77,Weekday,4,True,32,24
+92096,6.74,Weekday,Not given,False,30,26
+145952,29.15,Weekday,Not given,False,26,24
+52832,6.64,Weekday,Not given,False,21,29
+93797,25.22,Weekday,5,True,25,33
+105903,24.3,Weekday,4,True,35,29
+143984,12.27,Weekday,Not given,False,32,24
+331143,14.6,Weekday,3,True,20,32
+42461,11.69,Weekday,4,True,21,27
+83287,9.02,Weekday,4,True,23,27
+141550,22.8,Weekday,4,True,28,31
+104130,14.07,Weekday,5,True,34,33
+87357,6.4,Weekday,5,True,23,32
+5693,8.3,Weekday,Not given,False,29,32
+264707,12.08,Weekday,3,True,24,26
+84087,12.71,Weekday,5,True,29,33
+376578,15.57,Weekday,4,True,34,25
+399172,14.07,Weekday,Not given,False,20,31
+96456,29.05,Weekday,5,True,20,28
+99288,12.13,Weekday,Not given,False,33,28
+291667,12.23,Weekday,5,True,35,25
+63890,14.12,Weekday,5,True,35,33
+310706,6.74,Weekday,5,True,25,30
+185355,22.85,Weekday,5,True,21,32
+48851,9.02,Weekday,Not given,False,29,24
+78887,6.69,Weekday,4,True,26,25
+331143,16.3,Weekday,3,True,28,25
+40808,6.01,Weekday,3,True,20,31
+387227,29.25,Weekday,Not given,False,25,29
+325285,5.73,Weekday,Not given,False,25,25
+113926,33.03,Weekday,5,True,35,32
+65009,8.83,Weekday,5,True,34,27
+97079,25.22,Weekday,4,True,27,27
+130521,12.13,Weekday,5,True,21,30
+275689,12.18,Weekday,Not given,False,20,24
+147468,15.67,Weekday,3,True,23,24
+6987,12.23,Weekday,4,True,20,29
+186473,16.06,Weekday,Not given,False,34,33
+67162,14.07,Weekday,4,True,24,28
+283051,6.69,Weekday,5,True,26,32
+86806,14.12,Weekday,4,True,26,24
+370405,29.1,Weekday,3,True,23,24
+42781,24.3,Weekday,Not given,False,21,26
+198194,19.4,Weekday,5,True,24,30
+115213,28.62,Weekday,5,True,21,32
+132906,12.13,Weekday,Not given,False,20,33
+92806,15.18,Weekday,5,True,30,33
+55220,12.13,Weekday,Not given,False,32,26
+382076,6.69,Weekday,Not given,False,20,29
+81166,8.1,Weekday,Not given,False,23,26
+241356,19.35,Weekday,Not given,False,35,24
+385150,9.75,Weekday,5,True,27,27
+240014,32.93,Weekday,4,True,33,33
+362685,29.1,Weekday,4,True,21,29
+27609,15.57,Weekday,Not given,False,28,30
+39421,14.02,Weekday,4,True,22,27
+398489,14.07,Weekday,Not given,False,24,26
+365225,12.18,Weekday,5,True,30,24
+134152,29.1,Weekday,5,True,22,33
+59095,8.93,Weekday,5,True,34,30
+113926,12.08,Weekday,Not given,False,28,27
+338599,12.18,Weekday,Not given,False,30,25
+87006,5.67,Weekday,5,True,33,25
+335897,12.18,Weekday,4,True,24,27
+288808,32.98,Weekday,5,True,26,27
+120353,25.27,Weekday,Not given,False,27,27
+201535,9.51,Weekday,Not given,False,30,29
+47440,15.57,Weekday,4,True,24,28
+263075,12.23,Weekday,Not given,False,21,27
+354719,14.02,Weekday,5,True,32,32
+51675,19.4,Weekday,Not given,False,24,24
+68258,12.13,Weekday,4,True,23,31
+52037,22.02,Weekday,Not given,False,21,27
+285937,8.0,Weekday,4,True,28,24
+175327,29.1,Weekday,3,True,35,27
+78939,24.25,Weekday,Not given,False,29,25
+88406,24.2,Weekday,4,True,28,30
+60039,12.13,Weekday,Not given,False,32,29
+215219,19.98,Weekday,4,True,23,32
+65009,12.56,Weekday,5,True,27,27
+299221,14.07,Weekday,Not given,False,35,33
+89889,29.1,Weekday,5,True,32,30
+369272,15.81,Weekday,Not given,False,21,29
+169478,15.96,Weekday,4,True,35,33
+41907,22.75,Weekday,Not given,False,30,27
+47594,5.82,Weekday,Not given,False,29,29
+97991,22.26,Weekday,Not given,False,20,26
+116992,33.32,Weekday,4,True,21,33
+364714,8.97,Weekday,Not given,False,22,31
+154339,29.15,Weekday,Not given,False,21,24
+57638,25.27,Weekday,5,True,35,30
+88075,24.3,Weekday,4,True,33,30
+66498,16.2,Weekday,Not given,False,27,30
+59749,19.35,Weekday,4,True,33,27
+142045,22.36,Weekday,Not given,False,33,25
+355090,12.18,Weekday,Not given,False,26,27
+276192,31.33,Weekday,Not given,False,34,26
+50563,6.06,Weekday,4,True,24,27
+107909,24.2,Weekday,Not given,False,22,31
+99621,5.67,Weekday,3,True,24,29
+49620,8.73,Weekday,3,True,27,28
+106940,14.5,Weekday,3,True,34,24
+56642,22.85,Weekday,Not given,False,21,30
+80737,12.9,Weekday,3,True,29,29
+108659,24.2,Weekday,3,True,28,28
+127056,24.3,Weekday,5,True,21,33
+128216,19.74,Weekday,4,True,35,32
+241719,12.18,Weekday,4,True,26,26
+59742,6.07,Weekday,3,True,29,25
+365225,15.91,Weekday,Not given,False,20,31
+134058,12.08,Weekday,5,True,33,25
+276192,29.05,Weekday,5,True,28,32
+212326,12.32,Weekday,Not given,False,30,27
+119465,25.27,Weekday,5,True,30,25
+373750,5.97,Weekday,4,True,32,24
+101241,24.3,Weekday,Not given,False,25,24
+52832,24.2,Weekday,Not given,False,28,24
+395616,8.59,Weekday,5,True,32,33
+64153,12.13,Weekday,5,True,31,33
+144133,22.75,Weekday,4,True,21,27
+296805,13.0,Weekday,4,True,33,29
+359699,7.03,Weekday,5,True,32,24
+76907,14.8,Weekday,4,True,23,25
+186473,19.45,Weekday,Not given,False,22,27
+221394,8.83,Weekday,Not given,False,31,25
+115419,12.13,Weekday,Not given,False,34,26
+59017,12.66,Weekday,Not given,False,29,29
+220186,12.23,Weekday,5,True,33,26
+399373,29.1,Weekday,4,True,29,24
+99312,14.02,Weekday,3,True,30,29
+318451,8.54,Weekday,4,True,22,26
+57943,24.25,Weekday,5,True,25,25
+43636,7.28,Weekday,5,True,20,29
+235818,6.01,Weekday,5,True,23,30
+318689,16.1,Weekday,Not given,False,24,29
+76942,29.15,Weekday,Not given,False,20,26
+376578,5.92,Weekday,5,True,34,24
+130820,15.13,Weekday,Not given,False,21,30
+94766,12.23,Weekday,5,True,31,29
+338599,29.44,Weekday,4,True,29,32
+64401,16.54,Weekday,5,True,32,24
+369809,12.23,Weekday,3,True,32,24
+164529,17.08,Weekday,5,True,35,29
+309983,12.61,Weekday,Not given,False,34,24
+333449,12.13,Weekday,Not given,False,22,25
+351561,20.13,Weekday,Not given,False,24,31
+196355,13.1,Weekday,Not given,False,20,28
+145962,22.31,Weekday,3,True,27,31
+49104,16.15,Weekday,4,True,20,26
+138462,29.1,Weekday,5,True,21,29
+67844,9.17,Weekday,5,True,26,28
+346280,9.17,Weekday,Not given,False,24,29
+47280,12.13,Weekday,5,True,22,26
+80795,14.02,Weekday,Not given,False,20,25
+62912,24.25,Weekday,Not given,False,23,30
+222734,24.25,Weekday,Not given,False,23,30
+126798,19.45,Weekday,4,True,23,29
+327651,5.72,Weekday,5,True,31,26
+384411,19.45,Weekday,3,True,24,29
+45577,21.83,Weekday,Not given,False,23,32
+82041,21.83,Weekday,Not given,False,34,30
+79507,12.56,Weekday,Not given,False,31,32
+139639,29.15,Weekday,Not given,False,32,32
+149984,12.13,Weekday,5,True,29,26
+88078,12.23,Weekday,Not given,False,20,25
+231061,34.19,Weekday,Not given,False,21,31
+235620,5.53,Weekday,4,True,28,26
+241310,32.93,Weekday,3,True,34,31
+92768,19.35,Weekday,Not given,False,28,24
+304052,11.59,Weekday,5,True,35,29
+132906,22.46,Weekday,Not given,False,21,29
+64151,16.01,Weekday,Not given,False,28,33
+74048,25.22,Weekday,4,True,32,25
+59742,7.33,Weekday,Not given,False,31,30
+68248,10.43,Weekday,5,True,35,29
+99393,10.14,Weekday,Not given,False,24,28
+65007,19.5,Weekday,5,True,22,33
+164776,25.27,Weekday,Not given,False,33,30
+58088,12.18,Weekday,Not given,False,24,26
+154471,9.02,Weekday,3,True,25,33
+302790,29.05,Weekday,Not given,False,33,32
+39406,9.27,Weekday,4,True,32,29
+318665,4.9,Weekday,4,True,29,32
+70564,16.15,Weekday,5,True,22,24
+142681,6.79,Weekday,4,True,32,29
+400950,12.13,Weekday,5,True,34,28
+377481,24.25,Weekday,Not given,False,31,30
+240982,24.3,Weekday,3,True,29,31
+85091,13.05,Weekday,5,True,23,31
+354923,15.57,Weekday,4,True,34,31
+373152,14.02,Weekday,Not given,False,28,32
+49086,12.95,Weekday,3,True,22,33
+105665,12.56,Weekday,Not given,False,32,27
+158578,14.12,Weekday,3,True,24,31
+107909,24.2,Weekday,4,True,34,24
+148459,5.87,Weekday,Not given,False,26,30
+259341,29.35,Weekday,Not given,False,31,30
+142753,8.63,Weekday,Not given,False,31,32
+81110,16.44,Weekday,Not given,False,23,29
+286386,7.91,Weekday,Not given,False,29,26
+64401,21.34,Weekday,5,True,22,24
+128216,8.2,Weekday,4,True,33,26
+38612,12.13,Weekday,Not given,False,31,33
+378482,5.72,Weekday,Not given,False,22,24
+40745,15.91,Weekday,Not given,False,32,28
+60039,33.37,Weekday,3,True,30,27
+129206,29.15,Weekday,Not given,False,34,28
+106860,17.03,Weekday,Not given,False,35,30
+52832,31.43,Weekday,3,True,26,29
+207281,29.3,Weekday,5,True,33,32
+203442,19.6,Weekday,Not given,False,23,26
+232035,12.23,Weekday,5,True,24,32
+102710,12.13,Weekday,4,True,26,30
+135970,25.27,Weekday,5,True,31,30
+58675,11.59,Weekday,3,True,23,25
+102010,13.48,Weekday,Not given,False,27,32
+57263,15.76,Weekday,Not given,False,27,28
+145216,7.66,Weekday,5,True,33,31
+276192,10.86,Weekday,4,True,28,28
+300552,22.26,Weekday,5,True,33,32
+139626,16.98,Weekday,Not given,False,35,29
+108659,25.27,Weekday,4,True,23,31
+79255,12.95,Weekday,4,True,29,24
+316223,25.22,Weekday,4,True,25,28
+178158,29.1,Weekday,4,True,22,32
+130956,21.83,Weekday,3,True,21,26
+39702,12.08,Weekday,4,True,20,31
+337230,15.18,Weekday,Not given,False,34,30
+62359,16.01,Weekday,5,True,23,27
+146211,12.08,Weekday,Not given,False,25,33
+47594,12.18,Weekday,5,True,24,30
+361846,14.12,Weekday,3,True,21,33
+55689,7.95,Weekday,Not given,False,20,26
+106940,9.07,Weekday,4,True,23,30
+274232,7.86,Weekday,5,True,20,27
+351329,12.23,Weekday,Not given,False,27,26
+136807,19.35,Weekday,5,True,35,28
+141732,12.18,Weekday,5,True,20,26
+211035,19.45,Weekday,Not given,False,28,28
+328331,16.11,Weekday,5,True,25,24
+50199,19.4,Weekday,4,True,35,26
+172758,12.23,Weekday,4,True,31,24
+292343,12.23,Weekday,Not given,False,32,33
+85091,13.53,Weekday,3,True,20,31
+321492,8.1,Weekday,5,True,28,28
+62540,5.92,Weekday,Not given,False,27,31
+97324,29.05,Weekday,4,True,27,29
+94152,8.68,Weekday,3,True,33,30
+35309,25.22,Weekday,Not given,False,31,24
+64151,12.18,Weekday,5,True,23,31
