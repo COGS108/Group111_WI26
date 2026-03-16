@@ -189,7 +189,7 @@ def one_city_plot(df=grubhub_city, city_to_plot='Cambridge'):
 
 
 
-def all_df_lineplot(df1=foodhub, df2=grubhub, df3=doordash):
+def compare_lineplot(df1=foodhub, df2=grubhub, df3=doordash):
     """ 
     Creates a lineplot comparing each dataframe's delivery time to the associated ratings.
 
@@ -244,7 +244,7 @@ def all_df_lineplot(df1=foodhub, df2=grubhub, df3=doordash):
 
 
 
-def hexbin_plot(df1=foodhub, df2=grubhub, df3=doordash):
+def compare_hexbin_plot(df1=foodhub, df2=grubhub, df3=doordash):
     """ 
     Creates a hexagonal bin plot comparing each dataframe's delivery time to the associated ratings.
 
