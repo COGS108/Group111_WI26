@@ -95,7 +95,7 @@ def state_scatterplot(df):
 
 
 
-def compare_lineplot(df1=foodhub, df2=grubhub, df3=doordash):
+def compare_lineplot(df1, df2, df3):  # intended to be called on (foodhub, grubhub, doordash)
     """ 
     Creates a lineplot comparing each dataframe's delivery time to the associated ratings.
 
@@ -106,10 +106,9 @@ def compare_lineplot(df1=foodhub, df2=grubhub, df3=doordash):
          The first dataframe, default set to Foodhub dataframe.
          
     df2 : pd.DataFrame
-         The second dataframe, default set to Grubhub dataframe.
-         
+         The second dataframe
     df3 : pd.DataFrame
-         The third dataframe, default set to Doordash dataframe.
+         The third dataframe
 
     Returns
     -------
