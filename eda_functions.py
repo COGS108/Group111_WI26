@@ -147,7 +147,6 @@ def one_city_plot(df=grubhub_city, city_to_plot='Cambridge'):
      """ 
     Creates a singular scatterplot comparing delivery_time to rating for a specific city in the New York Grubhub subset.
 
-
     Parameters
     ----------
     df : pd.DataFrame
@@ -161,7 +160,6 @@ def one_city_plot(df=grubhub_city, city_to_plot='Cambridge'):
     None
          Displays a singular scatterplot.
     """
-    
     plt.figure(figsize=(8,6))
 
     sns.scatterplot(
