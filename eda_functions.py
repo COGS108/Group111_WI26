@@ -99,7 +99,7 @@ def state_scatterplot(df):
 
 
 
-def mwu_test(df1, df2, name1, name2):
+def mwu_test(df1, df2, name1, name2, variable):
     """ 
     Runs a Mann-Whitney U test on the two given datasets and calculates its effect size.
 
@@ -113,6 +113,8 @@ def mwu_test(df1, df2, name1, name2):
          The title of df1.
     name2: str
          The title of df2.
+    variable: str
+         The variable being compared between the two dataframes.
 
     Returns
     -------
@@ -128,9 +130,9 @@ def mwu_test(df1, df2, name1, name2):
 
     # Printing the results using the name1 and name2 parameters
     if p < 0.05:
-        print(f"Result: Significant difference between {name1} and {name2} ratings")
+        print(f"Result: Significant difference between {name1} and {name2} {variable}")
     else:
-        print(f"Result: No significant difference between {name1} and {name2} ratings")
+        print(f"Result: No significant difference between {name1} and {name2} {variable}")
 
     # Calculating the effect size of the results
     n1 = len(df1)
