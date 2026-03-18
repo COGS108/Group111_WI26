@@ -121,7 +121,7 @@ def mwu_test(df1, df2, name1, name2):
     """
 
     # Running the test
-    stat, p = mannwhitneyu(group1, group2, alternative='two-sided')
+    stat, p = mannwhitneyu(df1, df2, alternative='two-sided')
 
     print(f"Mann-Whitney U statistic: {stat:.2f}")
     print(f"P-value: {p:.4e}")
