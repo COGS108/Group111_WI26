@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from scipy.stats import mannwhitneyu
 
 # Visualizations with long lines of code are stored here in chronological order of use.
 
